@@ -1,4 +1,4 @@
-👋 Currently looking for job in Machine Learning & Deep Learning.
+📫 Currently looking for job in Machine Learning & Deep Learning
 
 <!---
 - 👋 Hi, I’m @DianaZhangmm
